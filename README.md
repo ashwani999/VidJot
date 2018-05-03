@@ -7,4 +7,4 @@ MEAN Stack based application for Add and remove Ideas for your future youtube vi
 * Open a new terminal and navigate to the `client` directory, `npm install` to setup the Angular dependencies, and `npm start` to start the local development server
 
 SCREENSHOTS
-![Alt text](Screenshots/v1.JPG?raw=true "home")
+
